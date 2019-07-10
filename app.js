@@ -1,3 +1,5 @@
+just a test !!!    ---tanenfu
+
 //app.js
 App({
   onLaunch: function () {
